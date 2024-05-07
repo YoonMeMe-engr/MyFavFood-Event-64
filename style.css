@@ -1,0 +1,10 @@
+.myPhoto {
+    margin-top: 20px;
+    display: block;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+};
